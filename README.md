@@ -17,7 +17,8 @@ Alongside, I am improving my skills in Data Structures & Algorithms (DSA) and Ar
 
 ## My Goal 🎯
 
-To combine AI with web development and create impactful projects that can help users and inspire others.
+To combine AI with web development and create impactful projects that can help users and inspire others to solve real-world Problems
+.
 
 ---
 
