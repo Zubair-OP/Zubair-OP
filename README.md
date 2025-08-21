@@ -5,7 +5,7 @@ Alongside, I am improving my skills in Data Structures & Algorithms (DSA) and Ar
 
 ## What I’ve Learned So Far ✅
 
-- JavaScript, HTML, CSS  
+- JavaScript, HTML, CSS. TailwindCSS, ReactJS  
 - Basic algorithms and problem-solving  
 - Concepts of AI and VIBE CODING  
 
