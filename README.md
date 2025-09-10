@@ -5,22 +5,17 @@ Alongside, I am improving my skills in Data Structures & Algorithms (DSA) and Ar
 
 ## What I’ve Learned So Far ✅
 
-- JavaScript, HTML, CSS, TailwindCSS, ReactJS  
+- JavaScript, HTML, CSS, TailwindCSS, ReactJS  and NextJs
 - Basic algorithms and problem-solving  
-- Concepts of AI and VIBE CODING  
+- Concepts of AI and VIBE CODING
 
 ## What I’m Working On 🚀
 
 - Advanced web development frameworks  
-- Strengthening my DSA logic  
-- Building AI-powered web projects  
+- Building AI-powered web projects
+- Backend
 
 ## My Goal 🎯
 
-To combine AI with web development and create impactful projects that can help users and inspire others to solve real-world Problems
-.
-
----
-
-Thanks for visiting my profile! Feel free to connect.
+To combine AI with web development and create impactful projects that can help users and inspire others to solve real-world Problems.
 
