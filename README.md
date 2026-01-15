@@ -7,7 +7,7 @@ Alongside, I am improving my skills in Data Structures & Algorithms (DSA) and Ar
 
 - JavaScript, HTML, CSS, TailwindCSS, ReactJS  and NextJs
 - Basic algorithms and problem-solving  
-- Concepts of AI and VIBE CODING
+- Concepts of AI and DSA.
 
 ## What I’m Working On 🚀
 
