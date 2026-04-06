@@ -1,33 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=M%20Zubair&fontSize=80&animation=fadeIn&fontAlignY=45&theme=dark" alt="M Zubair Header" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=M%20Zubair&fontSize=80&animation=fadeIn&fontAlignY=45&theme=dark" alt="M Zubair" />
 
-### ⚡ Bridging Mechanical Precision with Digital Innovation
-**Frontend Architect | Full-Stack Explorer | Student @ COMSATS**
+### 🚀 Full-Stack Software Engineer & UI Architect
+**Crafting High-Performance Digital Solutions with Precision**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=00f2fe)](https://github.com/Zubair-OP)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=00f2fe)](https://github.com/Zubair-OP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-OP)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-### 🌑 The Mission
-I am a dedicated Computer Science student and Frontend Developer at **DevelopersHub Corporation**. 
-With a background in **Mechanical Engineering**, I bring a unique "systems-engineering" 
-perspective to web development—focusing on structural integrity, clean logic, and immersive UI.
+### 🌑 Professional Persona
+I am a Software Engineer at **DevelopersHub Corporation**, specializing in building immersive 
+Frontend experiences and scalable Backend architectures. My transition from a technical 
+mechanical background into pure Software Engineering drives my obsession with 
+**clean code, structural logic, and system efficiency.**
 
 </div>
 
 <br/>
 
-### 📂 Profile Overview
-* 🎓 **Academic** | Pursuing BSCS at COMSATS University Islamabad (Attock Campus).
-* 🏢 **Experience** | Currently building enterprise-grade UIs at DevelopersHub.
-* 🧠 **Learning** | Deep diving into Backend architecture with Redis, JWT, and MongoDB.
-* 🌍 **Collaborate** | Open to innovative projects that challenge the status quo.
+### 📂 The Blueprint
+* 💻 **Primary Focus** | Frontend UI/UX & Interactive Web Apps.
+* ⚙️ **Backend Status** | Core logic mastered; currently exploring **Advanced Backend Systems**.
+* 🎓 **Academic** | BS Computer Science student at COMSATS University Islamabad.
+* 🛠️ **Evolution** | Successfully pivoted from Mechanical Engineering to high-level Software Engineering.
 
 ---
 
@@ -36,13 +37,13 @@ perspective to web development—focusing on structural integrity, clean logic, 
 ### 🛠️ Technical Arsenal
 
 **Frontend Mastery**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs)](https://skillicons.dev)
 
-**Backend & Infrastructure**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,postman)](https://skillicons.dev)
+**Advanced Backend & Databases**
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,postman)](https://skillicons.dev)
 
-**Engineering Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://skillicons.dev)
+**Engineering Workflow**
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://skillicons.dev)
 
 </div>
 
@@ -50,20 +51,20 @@ perspective to web development—focusing on structural integrity, clean logic, 
 
 ---
 
-### 🔧 Core Specialties
-- 💎 **Immersive UIs** | Developing pixel-perfect interfaces with React and Next.js.
-- 🔐 **Secure Logic** | Implementing robust Auth flows with JWT and token blacklisting.
-- ⚡ **Performance** | Optimizing applications for speed using Redis caching.
-- 🎨 **Creative Dev** | Turning complex problems into elegant, user-centric designs.
+### 🔧 Core Expertise
+- 💎 **Pixel-Perfect Frontend** | Creating stunning, responsive, and intuitive UIs with React/Next.js.
+- ⚡ **Advanced Backend Logic** | Mastering Redis caching, JWT security, and scalable API design.
+- 🏗️ **System Architecture** | Building full-stack projects like **Moodify** with complex integrations.
+- 🛡️ **Code Integrity** | Writing maintainable, documented, and performance-optimized code.
 
 ---
 
-### 🧠 The Mindset: "The Mechanical Architect"
-Coming from a **DAE Mechanical** background, I don't just "write code." I build machines. I view every application as a series of interconnected gears where every function must be optimized for friction-less performance.
+### 🧠 The Engineer's Mindset
+I view code as a sophisticated machine. My background taught me how to analyze complex systems, and I now apply that same rigor to building software. I don't just "make it work"—I make it **optimal**.
 
-* **Alter Ego:** The Debugging Sentinel 🛡️
-* **Philosophy:** Clean code isn't a preference; it's a requirement.
-* **Fuel:** Problem-solving and high-quality UI/UX.
+* **Status:** Moving beyond basics into Enterprise-level development.
+* **Goal:** Building products that are as fast as they are beautiful.
+* **Mantra:** High performance is not an accident; it's a result of intelligent engineering.
 
 <br/>
 
@@ -71,10 +72,10 @@ Coming from a **DAE Mechanical** background, I don't just "write code." I build 
 
 ---
 
-### ✨ Let's Build the Future Together
-*I'm always looking for my next challenge.*
+### ✨ Let's Build the Future
+*Open for innovation, collaboration, and complex challenges.*
 
-[**View Repositories**](https://github.com/Zubair-OP?tab=repositories) • [**Get in Touch**](mailto:your-email@example.com)
+[**Explore Repos**](https://github.com/Zubair-OP?tab=repositories) • [**Contact Me**](mailto:your-email@example.com)
 
 <br/>
 
