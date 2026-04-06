@@ -1,10 +1,83 @@
-@@ -6,11 +6,5 @@
+<div align="center">
 
-# Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZUBAIR-OP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZUBAIR-OP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=M%20Zubair&fontSize=80&animation=fadeIn&fontAlignY=45&theme=dark" alt="M Zubair Header" />
+
+### ⚡ Bridging Mechanical Precision with Digital Innovation
+**Frontend Architect | Full-Stack Explorer | Student @ COMSATS**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=00f2fe)](https://github.com/Zubair-OP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-OP)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZUBAIR-OP&icon=0&color=5)](https://visitcount.itsvg.in)
+
+### 🌑 The Mission
+I am a dedicated Computer Science student and Frontend Developer at **DevelopersHub Corporation**. 
+With a background in **Mechanical Engineering**, I bring a unique "systems-engineering" 
+perspective to web development—focusing on structural integrity, clean logic, and immersive UI.
+
+</div>
+
+<br/>
+
+### 📂 Profile Overview
+* 🎓 **Academic** | Pursuing BSCS at COMSATS University Islamabad (Attock Campus).
+* 🏢 **Experience** | Currently building enterprise-grade UIs at DevelopersHub.
+* 🧠 **Learning** | Deep diving into Backend architecture with Redis, JWT, and MongoDB.
+* 🌍 **Collaborate** | Open to innovative projects that challenge the status quo.
+
+---
+
+<div align="center">
+
+### 🛠️ Technical Arsenal
+
+**Frontend Mastery**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs)](https://skillicons.dev)
+
+**Backend & Infrastructure**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,postman)](https://skillicons.dev)
+
+**Engineering Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+---
+
+### 🔧 Core Specialties
+- 💎 **Immersive UIs** | Developing pixel-perfect interfaces with React and Next.js.
+- 🔐 **Secure Logic** | Implementing robust Auth flows with JWT and token blacklisting.
+- ⚡ **Performance** | Optimizing applications for speed using Redis caching.
+- 🎨 **Creative Dev** | Turning complex problems into elegant, user-centric designs.
+
+---
+
+### 🧠 The Mindset: "The Mechanical Architect"
+Coming from a **DAE Mechanical** background, I don't just "write code." I build machines. I view every application as a series of interconnected gears where every function must be optimized for friction-less performance.
+
+* **Alter Ego:** The Debugging Sentinel 🛡️
+* **Philosophy:** Clean code isn't a preference; it's a requirement.
+* **Fuel:** Problem-solving and high-quality UI/UX.
+
+<br/>
+
+<div align="center">
+
+---
+
+### ✨ Let's Build the Future Together
+*I'm always looking for my next challenge.*
+
+[**View Repositories**](https://github.com/Zubair-OP?tab=repositories) • [**Get in Touch**](mailto:your-email@example.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=footer&width=1000&theme=dark" />
+
+</div>
