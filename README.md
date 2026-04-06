@@ -2,8 +2,8 @@
 
 <h1> 🚀 M ZUBAIR </h1>
 
-### **Full-Stack Software Engineer & UI Architect**
-*Crafting High-Performance Digital Solutions with Precision*
+### **Mern-Stack Engineer & Open Source Contributor**
+*Building High-Performance Systems & Scalable Web Architectures*
 
 <br/>
 
@@ -15,10 +15,10 @@
 ---
 
 ### 🌑 Professional Persona
-I am a Software Engineer at **DevelopersHub Corporation**, specializing in building immersive 
-Frontend experiences and scalable Backend architectures. My transition from a technical 
-mechanical background into pure Software Engineering drives my obsession with 
-**clean code, structural logic, and system efficiency.**
+I am a Mern-Stack Engineer . I specialize in building immersive 
+Frontend experiences and **Advanced Backend Architectures**. Beyond my professional 
+roles, I am an active **Open Source Contributor**, collaborating on global projects 
+to refine system efficiency and clean code standards.
 
 </div>
 
@@ -40,17 +40,22 @@ mechanical background into pure Software Engineering drives my obsession with
 
 ---
 
+### 🌐 Open Source & Contributions
+- 🤝 **Global Collaboration** | Contributing to open-source repositories to improve codebase scalability.
+- 🐛 **Problem Solver** | Identifying bugs and proposing optimized PRs (Pull Requests) in the dev community.
+- 📜 **Documentation** | Improving technical docs for better developer onboarding.
+
 ### 🔧 Core Expertise
 - 💎 **Pixel-Perfect Frontend** | Creating stunning, responsive, and intuitive UIs with React/Next.js.
-- ⚡ **Advanced Backend Logic** | Mastering Redis caching, JWT security, and scalable API design.
-- 🏗️ **System Architecture** | Building full-stack projects with complex integrations.
+- ⚡ **Backend Systems** | Deep-diving into **Redis caching**, **JWT optimization**, and secure API design.
+- 🏗️ **System Architecture** | From mechanical precision to digital logic—building machines that scale.
 
 ---
 
 <div align="center">
 
 ### ✨ Let's Build the Future
-*Open for innovation, collaboration, and complex challenges.*
+*Open for innovation, Open Source collaboration, and complex challenges.*
 
 [**Explore Repos**](https://github.com/Zubair-OP?tab=repositories) • [**Contact Me**](mailto:your-email@example.com)
 
