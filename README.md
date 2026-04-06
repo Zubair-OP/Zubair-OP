@@ -15,7 +15,7 @@
 ---
 
 ### 🌑 Professional Persona
-I am a Software Engineer at **DevelopersHub Corporation**, specializing in building immersive 
+I am a Mern Stack, specializing in building immersive 
 Frontend experiences and scalable Backend architectures. My transition from a technical 
 mechanical background into pure Software Engineering drives my obsession with 
 **clean code, structural logic, and system efficiency.**
