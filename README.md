@@ -47,7 +47,7 @@ to refine system efficiency and clean code standards.
 
 ### 🔧 Core Expertise
 - 💎 **Pixel-Perfect Frontend** | Creating stunning, responsive, and intuitive UIs with React/Next.js.
-- ⚡ **Backend Systems** | Deep-diving into **Redis caching**, **JWT optimization**, and secure API design.
+- ⚡ **Backend Systems** | Deep-diving into **Redis caching**, **JWT optimization**,**GEN AI**,**SYSTEM DESIGN** and secure API design.
 - 🏗️ **System Architecture** | From mechanical precision to digital logic—building machines that scale.
 
 ---
